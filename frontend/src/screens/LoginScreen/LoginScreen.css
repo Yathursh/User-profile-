@@ -1,0 +1,10 @@
+.loginContainer {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+}
+.log{
+  background-image: url("../../log3.jpg");
+  background-position: center;
+  background-size: cover;
+}
